@@ -1,4 +1,4 @@
-// ASYNC WAIT
+// ASYNC WAIT to só fazendo um teste aqui 
 /*
 async - Força a execução da função a esperar onde for adiciona o wait()
 */
